@@ -30,3 +30,4 @@ This repository contains the project files for the TIK23SP Web_Projekti develope
 
 ## Contributors
 - Matias Penttinen // pehkomatti // [Pentmat](https://github.com/Pentmat)
+- Tiia Tiihonen // TiiaJohanna //  TiiaJohanna (https://github.com/TiiaJohanna)
