@@ -29,4 +29,4 @@ This repository contains the project files for the TIK23SP Web_Projekti develope
 [HacknPlan Board](https://app.hacknplan.com/p/201787/kanban?categoryId=0&boardId=554280)
 
 ## Contributors
-- Matias Penttinen [pehkomatti] ([Pentmat](https://github.com/Pentmat)
+- Matias Penttinen [pehkomatti] ([Pentmat](https://github.com/Pentmat))
